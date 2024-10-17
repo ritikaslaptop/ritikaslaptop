@@ -25,7 +25,7 @@ watch out for this one...coming soon!
 
 - Bachelor of Technology in Computer Science 
 
-##Ambitions on the Horizon
+## Ambitions on the Horizon
 - 🏆 To deepen my expertise in AI and Machine Learning and contribute to innovative projects.
 - 📚 To share knowledge through mentorship and by contributing to open-source projects.
 - ✨ To continuously learn and adapt to new challenges in the ever-evolving landscape of Computer Science!
