@@ -1,4 +1,4 @@
-# Greetings, Esteemed Traveler! 🏰✨
+# Greetings, Esteemed Traveler! 
 
 You have wandered into the enchanting realm of Ritika Chaturvedi(she/her), a spirited adventurer and tech enthusiast.
 
