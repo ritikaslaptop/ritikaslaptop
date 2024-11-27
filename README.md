@@ -1,8 +1,4 @@
-# Greetings, Esteemed Traveler!                                          
-
-                                    # "Learning never exhausts the mind." – Leonardo da Vinci 🌟
-
-This repository holds the resources that have shaped my journey. Dive in, explore, and maybe you'll find your next inspiration here!
+# Greetings, Esteemed Traveler!                                  [***resources***](https://github.com/ritikaslaptop/resc.)
 
 
 You have wandered into the enchanting realm of Ritika Chaturvedi(she/her), a spirited adventurer and tech enthusiast.
