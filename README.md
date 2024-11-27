@@ -1,4 +1,4 @@
-# Greetings, Esteemed Traveler!                          --->[***resources***](https://github.com/ritikaslaptop/resc.)
+# Greetings, Esteemed Traveler!  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; --->[***resources***](https://github.com/ritikaslaptop/resc.)
 
 
 You have wandered into the enchanting realm of Ritika Chaturvedi(she/her), a spirited adventurer and tech enthusiast.
