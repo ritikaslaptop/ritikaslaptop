@@ -8,7 +8,7 @@ Here, I conjure project ideas that come to life through the art of coding, craft
 
 ## About Me
 
-- 🌱 Currently charting the uncharted waters of: Artificial Intelligence and Machine Learning,Python Automation and Microcontrollers
+- 🌱 Currently charting the uncharted waters of: Python Automation,Tree Algorithms,JavaScript supersets!
 - 💬 Feel free to inquire about: Python,C++,HTML,CSS and SQL projects (might as well team up for some!)
 
 ## Skills of the Trade
@@ -30,16 +30,6 @@ watch out for this one...coming soon!
 - 🏆 To deepen my expertise in AI and Machine Learning and contribute to innovative projects.
 - 📚 To share knowledge through mentorship and by contributing to open-source projects.
 - ✨ To continuously learn and adapt to new challenges in the ever-evolving landscape of Computer Science!
-
-
-## Reach Out to This Adventurer
-
-- 📫 Send a raven(yep,email): ritikaslaptop@gmail.com
-- 🌐 Discover more at my lair: https://www.linkedin.com/in/ritika-chaturvedi-9637a932a
-
-## Let Us Embark on This Grand Adventure Together!
-
-Join me on [LinkedIn](https://www.linkedin.com/in/ritika-chaturvedi-9637a932a) as we explore the vast horizons of creativity and innovation.
 
 ## Tidbits Of My Travels
 (laters)
