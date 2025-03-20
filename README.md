@@ -18,21 +18,10 @@ Here, I conjure project ideas that come to life through the art of coding, craft
 - **Tools & Technologies:** the conventional IDEs,APIs,Arduino UNO and related sensory and circuit companions + PyTest to test those frameworks :) 
 - **Other Talents:** leadership & mentorship,adaptability,project management and critical thinking
 
-## Quests and Adventures
-
-watch out for this one...coming soon!
-
-## Chronicles of Knowledge
-
-- Bachelor of Technology in Computer Science 
-
 ## Ambitions on the Horizon
 - 🏆 To deepen my expertise in AI and Machine Learning and contribute to innovative projects.
 - 📚 To share knowledge through mentorship and by contributing to open-source projects.
 - ✨ To continuously learn and adapt to new challenges in the ever-evolving landscape of Computer Science!
-
-## Tidbits Of My Travels
-(laters)
 ---
 
 ### [🥤]:A Gentle Reminder: Remember to hydrate and take a well-deserved break, dear traveler! 
